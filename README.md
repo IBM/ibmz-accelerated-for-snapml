@@ -15,6 +15,7 @@
 - [Technical Support](#contact)
 - [Versioning Policy and Release Cadence](#versions)
 - [Licenses](#licenses)
+- [Supported Platforms](#supported-platforms)
 
 # Overview <a id="overview"></a>
 
@@ -204,3 +205,10 @@ found [here](https://www.ibm.com/legal/copyright-trademark).
 
 For additional disclaimers, please visit the general AI Toolkit documentation
 found [here](https://github.com/IBM/ai-toolkit-for-z-and-linuxone).
+
+# Supported Platforms <a id="supported-platforms"></a>
+
+IBM Z Accelerated for Snap ML supports the following platforms:
+
+- RHEL: 10.2
+- Red Hat OpenShift: 4.22, 4.21, 4.20, 4.19, 4.18, 4.17, 4.16, 4.14, 4.12
